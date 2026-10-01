@@ -10,6 +10,12 @@ The system performs data preprocessing, exploratory data analysis, feature selec
 
 An interactive **Streamlit web application** is also provided for making predictions using student information.
 
+## 🚀 Live Demo
+
+Try the deployed application here:
+
+[Student Performance Prediction System](https://invoqestudentperformanceprediction-cs3qvp4tzexmsb6gknqnec.streamlit.app/)
+
 ## 🎯 Objective
 
 The main objective of this project is to build a machine learning system that predicts a student's final grade (`G3`) based on available student-related features.
